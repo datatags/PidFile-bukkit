@@ -4,9 +4,9 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.lang.management.ManagementFactory;
 import java.util.logging.Level;
 import org.bukkit.plugin.java.JavaPlugin;
-import sun.management.ManagementFactory;
 
 /**
  *
